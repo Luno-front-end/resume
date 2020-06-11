@@ -32,8 +32,6 @@ body {
   padding: 110px 90px 110px 90px;
 }
 .contacts-container {
-  position: fixed;
-
   margin-top: 60px;
   margin-left: 40px;
   margin-right: 60px;
@@ -66,7 +64,7 @@ body {
   margin-bottom: 20px;
 }
 .Tech-Skills-conteiner {
-  margin-top: 170px;
+  margin-top: 40px;
   margin-left: 40px;
   margin-right: 40px;
 }
@@ -91,6 +89,14 @@ body {
   font-size: 45px;
   font-weight: 700;
   line-height: 89px;
+}
+
+.opisanie-container .list-info {
+  list-style: none;
+}
+.list-info {
+  border-top: 1px solid #ff6b08;
+  border-bottom: 1px solid #ff6b08;
 }
 .opisanie {
   font-size: 14px;
