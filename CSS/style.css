@@ -131,6 +131,7 @@ body {
 }
 
 .dots {
+  width: 500px;
   font-weight: 100;
   border-bottom: 1px dotted #a8a8a8;
 }
